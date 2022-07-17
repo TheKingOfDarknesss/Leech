@@ -1,12 +1,12 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![THE SILENT VIP LEECH](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)
 
 ## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
-![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+![Maxx](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![THE SILENT VIP](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)](https://telegram.dog/The_Silent_Vip_Info_Bot)
 
 
 
@@ -150,7 +150,7 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![THE SILENT VIP](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)](https://t.me/THESILENTVIP)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
