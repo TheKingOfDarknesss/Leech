@@ -29,7 +29,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![THE SILENT VIP](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)](https://t.me/THESILENTVIP) 👇
 
 ##### Mandatory Variables
 
@@ -44,7 +44,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![THESILENTVIP](https://telegra.ph/file/af879fd34bd9a36c7a656.jpg)](https://t.me/THESILENTVIP)
 
 ##### Optional Configuration Variables
 
